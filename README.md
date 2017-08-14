@@ -2,6 +2,10 @@
 
 **Changelog**
 
+8/14/2017
+
+ - Updated YouTube++ to it's latest Tweak version
+
 7/28/2017
 
  - Updated to include latest fixes for sideload
