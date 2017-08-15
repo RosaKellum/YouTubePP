@@ -1,5 +1,7 @@
 **Check [Releases](https://github.com/JMccormick264/YouTubePP/releases) For Downloads**
 
+**[Issue Repo Here](https://github.com/eni9889/YT-PP-Issues)**
+
 **Changelog**
 
 8/14/2017
