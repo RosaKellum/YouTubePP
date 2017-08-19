@@ -4,6 +4,10 @@
 
 **Changelog**
 
+8/18/2017
+
+ - Updated to Tweak Version 1.4r-76
+
 8/16/2017
 
  - Updated YouTube++ to App Version 12.31
@@ -21,15 +25,6 @@
  - Re-uploaded to include new fixes
 
 
-7/23/2017
-
- - Updated YouTube++ to App Version 12.28
-
-7/17/2017 (2)
-
- - 1.4r-53 Fix downloads of playlist items
-
-
-UnlimApp's YuTube++ IPA Page
+UnlimApp's YouTube++ IPA Page
 
 Credits to Unlimapps for ppsideloader
