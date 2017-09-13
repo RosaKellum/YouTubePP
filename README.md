@@ -4,6 +4,10 @@
 
 **Changelog**
 
+9/12/2017
+
+ - Updated YouTube++ to App Version 12.35
+
 9/6/2017
 
  - Updated YouTube++ to App Version 12.23 and latest Tweak
@@ -24,9 +28,6 @@
 
  - Updated to include latest fixes for sideload
 
-7/27/2017
-
- - Re-uploaded to include new fixes
 
 
 UnlimApp's YouTube++ IPA Page
