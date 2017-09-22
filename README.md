@@ -4,6 +4,10 @@
 
 **Changelog**
 
+9/21/2017
+
+ - Updated YouTube++ to Latest App and Tweak Versions
+
 9/12/2017
 
  - Updated YouTube++ to App Version 12.35
