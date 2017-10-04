@@ -4,40 +4,38 @@
 
 **Changelog**
 
-9/23/2017
+10/3/2017
 
- - Fixed the IPA so they match their IPA names.
+ - Updated YouTube++ to App Version 12.38
 
-9/21/2017
+ 9/23/2017
 
- - Updated YouTube++ to Latest App and Tweak Versions
+  - Fixed the IPA so they match their IPA names.
 
-9/12/2017
+ 9/21/2017
 
- - Updated YouTube++ to App Version 12.35
+  - Updated YouTube++ to Latest App and Tweak Versions
 
-9/6/2017
+ 9/12/2017
 
- - Updated YouTube++ to App Version 12.23 and latest Tweak
+  - Updated YouTube++ to App Version 12.35
 
-8/18/2017
+ 9/6/2017
 
- - Updated to Tweak Version 1.4r-76
+  - Updated YouTube++ to App Version 12.23 and latest Tweak
 
-8/16/2017
+ 8/18/2017
 
- - Updated YouTube++ to App Version 12.31
+  - Updated to Tweak Version 1.4r-76
 
-8/14/2017
+ 8/16/2017
 
- - Updated YouTube++ to it's latest Tweak version
+  - Updated YouTube++ to App Version 12.31
 
-7/28/2017
+ 8/14/2017
 
- - Updated to include latest fixes for sideload
+  - Updated YouTube++ to it's latest Tweak version
 
 
-
-UnlimApp's YouTube++ IPA Page
-
-Credits to Unlimapps for ppsideloader
+  Credits to Unlimapps for ppsideloader
+  And me for making the Tweaks into IPAs
