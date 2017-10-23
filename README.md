@@ -3,6 +3,10 @@
 
 **Changelog**
 
+10/23/2017
+
+ - Updated YouTube++ to App Version 12.41
+
 10/16/2017
 
  - Updated to App Version 12.40 and latest tweak
