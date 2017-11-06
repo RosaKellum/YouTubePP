@@ -1,7 +1,13 @@
-**[YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)**
+**[YouTube++ Download Page Here](https://github.com/JMccormick264/YouTubePP/releases)**
+
+
 **[Issue Repo Here](https://github.com/eni9889/YT-PP-Issues)**
 
 **Changelog**
+
+11/6/2017
+
+ - Updated YouTube++ to App Version 12.43
 
 10/30/2017
 
