@@ -5,6 +5,11 @@
 
 **Changelog**
 
+1/13/2017
+
+ - Re-uploaded the IPAs. Changed the Bundle IDs. This should hopefully cause
+ less issues down the road.
+
 1/3/2017
 
  - Updated to App Version 12.49
@@ -21,22 +26,6 @@
 11/13/2017
 
  - Updated YouTube++ to App Version 12.44
-
-11/6/2017
-
- - Updated YouTube++ to App Version 12.43
-
-10/30/2017
-
- - Updated YouTube++ to App Version 12.42
-
-10/23/2017
-
- - Updated YouTube++ to App Version 12.41
-
-10/16/2017
-
- - Updated to App Version 12.40 and latest tweak
 
 
  Credits to Unlimapps for ppsideloader and making the tweaks
