@@ -5,6 +5,10 @@
 
 **Changelog**
 
+1/15/2017
+
+ - Updated YouTube++ to App Version 13.01
+
 1/13/2017
 
  - Re-uploaded the IPAs. Changed the Bundle IDs. This should hopefully cause
