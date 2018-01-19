@@ -5,16 +5,20 @@
 
 **Changelog**
 
-1/15/2017
+1/19/2018
+
+ - Updated YouTube++ to App Version 13.01.5
+
+1/15/2018
 
  - Updated YouTube++ to App Version 13.01
 
-1/13/2017
+1/13/2018
 
  - Re-uploaded the IPAs. Changed the Bundle IDs. This should hopefully cause
  less issues down the road.
 
-1/3/2017
+1/3/2018
 
  - Updated to App Version 12.49
 
