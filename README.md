@@ -5,6 +5,10 @@
 
 **Changelog**
 
+1/22/2018
+
+ - Updated YouTube++ to App Version 13.02.9
+
 1/19/2018
 
  - Updated YouTube++ to App Version 13.01.5
